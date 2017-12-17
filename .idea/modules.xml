@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D:\android\projects\BakingApp-master\Baking App.iml" filepath="D:\android\projects\BakingApp-master\Baking App.iml" />
       <module fileurl="file://$PROJECT_DIR$/BakingApp-master.iml" filepath="$PROJECT_DIR$/BakingApp-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

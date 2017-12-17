@@ -70,8 +70,8 @@ public class RecipeStepActivityFragment extends Fragment implements View.OnClick
     private static MediaSessionCompat mMediaSession;
     private PlaybackStateCompat.Builder mStateBuilder;
 
-    static long position = C.TIME_UNSET;
-    static boolean whenReady = true;
+     long position = C.TIME_UNSET;
+     boolean whenReady = true;
 
     public RecipeStepActivityFragment() {
     }
