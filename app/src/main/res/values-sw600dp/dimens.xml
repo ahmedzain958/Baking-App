@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin">10dp</dimen>
+    <dimen name="textSize">22sp</dimen>
+    <dimen name="card_padding">10sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="card_item_height">60sp</dimen>
+    <dimen name="car_item_height_widget">80sp</dimen>
+
+</resources>
